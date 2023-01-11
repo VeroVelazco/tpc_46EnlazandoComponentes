@@ -69,3 +69,4 @@ function LastMovieInDb() {
 }
 
 export default LastMovieInDb;
+
